@@ -10,6 +10,16 @@
 6. Mengapa teknology container saat ini sangat populer?
 7. Apa yang anda ketahui tentang Orchestration Container System?
 
+   jawaban
+
+1. 1. DevOps merupakan gabungan kata dari Development Operations yang memudahkan sekaligus mempercepat dalam melakukan siklus pengembangan dan pengiriman pada perangkat lunak.
+2. infrastructure merupakan sebuah gabungan komponen hardware, sodtware, dan network yang mana ini dipergunakan utuk mengembangkan, menguji, mengoperasikan, memantau dan mendukung layanan IT adapun infrastructure yang berkaitan dengan cloud yaitu IaaS( infrastructure as a Service)
+3. server merupakan sebuah sistem perangkat lunak(software) maupun perangkat keras(hardware yang menyediakan layanan atau sumber daya tertentu kepada perangkat lain atau disebut client dalam sebuah jaringan. seperti contoh Web Server yang berfungsi menyediakan konten web ke browser pengguna(HTTP/HTTPS) contoh implementasi nya seperti NGINX atau APACHE.
+4. alasan mengapa server dibutuhkan dalam pengembangan software untuk tempat menjalankan aplikasi karena server menyediakan lingkungan operasi seperti node.js, python, java dll agar software dapat dijalankan secara konsisten. server juga digunakan untuk menjalankan build pipeline seperti kompilasi, unit test, dan integrasi tes contohnya seperti github actions dipakai untuk CI/CD build pipeline otomatis setiap ada commit baru
+5. virtualisasi merupakan proses membuat versi virtual dari sumber daya fisik seperti server, storage, atau jaringan yang menggunakan hypervisor(VMware, VirtualBox), sedangkan container merupakan sebuah virtualisasi tingkat sistem operasi yang memunginkan aplikasi dan semuaa depedensinya dikemas dalam satu unit yang ringan dan dapat dijalankan dimana saja. simpel nya container dapat dijalankan dalam 1 OS host/ lebih portable sedangkan virtualisasi menjalankan OS berbeda di satu mesin.
+6. dikarenakan mampu menyederhanakan, mempercepat, dan menstandarisasi cara aplikasi dibangun, diuji, dan dijalankan dalam skenario DevOps dan CI/CD
+7. container orchestration adalah proses mengatur dan mengelola container secara otomatis, termasuk bagaimana container dijalankan, dijadwalkan, diatur skalanya, dan dipantau, dalam lingkungan yang kompleks dan dinamis.
+
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
 ## Task 1 (Virtualization)
