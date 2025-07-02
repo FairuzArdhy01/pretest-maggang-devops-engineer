@@ -12,7 +12,7 @@
 
    jawaban
 
-1. 1. DevOps merupakan gabungan kata dari Development Operations yang memudahkan sekaligus mempercepat dalam melakukan siklus pengembangan dan pengiriman pada perangkat lunak.
+1. DevOps merupakan gabungan kata dari Development Operations yang memudahkan sekaligus mempercepat dalam melakukan siklus pengembangan dan pengiriman pada perangkat lunak.
 2. infrastructure merupakan sebuah gabungan komponen hardware, sodtware, dan network yang mana ini dipergunakan utuk mengembangkan, menguji, mengoperasikan, memantau dan mendukung layanan IT adapun infrastructure yang berkaitan dengan cloud yaitu IaaS( infrastructure as a Service)
 3. server merupakan sebuah sistem perangkat lunak(software) maupun perangkat keras(hardware yang menyediakan layanan atau sumber daya tertentu kepada perangkat lain atau disebut client dalam sebuah jaringan. seperti contoh Web Server yang berfungsi menyediakan konten web ke browser pengguna(HTTP/HTTPS) contoh implementasi nya seperti NGINX atau APACHE.
 4. alasan mengapa server dibutuhkan dalam pengembangan software untuk tempat menjalankan aplikasi karena server menyediakan lingkungan operasi seperti node.js, python, java dll agar software dapat dijalankan secara konsisten. server juga digunakan untuk menjalankan build pipeline seperti kompilasi, unit test, dan integrasi tes contohnya seperti github actions dipakai untuk CI/CD build pipeline otomatis setiap ada commit baru
